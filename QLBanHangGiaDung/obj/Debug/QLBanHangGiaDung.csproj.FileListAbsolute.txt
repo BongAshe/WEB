@@ -1,0 +1,231 @@
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\QLBanHangGiaDung.dll.config
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\QLBanHangGiaDung.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\QLBanHangGiaDung.pdb
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csc.exe
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csc.exe.config
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csc.rsp
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csi.exe
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csi.exe.config
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csi.rsp
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.AppContext.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Console.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.Pipes.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Claims.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\vbc.exe
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\vbc.exe.config
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\vbc.rsp
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csprojAssemblyReference.cache
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.CopyComplete
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.dll
+C:\Users\baong\source\repos\QLBanHangGiaDung\QuanLyBanHangGiaDung\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.pdb
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\QLBanHangGiaDung.dll.config
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\QLBanHangGiaDung.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\QLBanHangGiaDung.pdb
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csc.exe
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csc.exe.config
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csc.rsp
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csi.exe
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csi.exe.config
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\csi.rsp
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.AppContext.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Console.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Claims.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\vbc.exe
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\vbc.exe.config
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\vbc.rsp
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csprojAssemblyReference.cache
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.CopyComplete
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.dll
+C:\Users\ZipEnter\Desktop\QuanLyBanHangGiaDung\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.pdb
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\QLBanHangGiaDung.dll.config
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\QLBanHangGiaDung.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\QLBanHangGiaDung.pdb
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csc.exe
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csc.exe.config
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csc.rsp
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csi.exe
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csi.exe.config
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csi.rsp
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.AppContext.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Console.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.Compression.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.Pipes.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.AccessControl.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Claims.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.ValueTuple.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Xml.XPath.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\vbc.exe
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\vbc.exe.config
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\vbc.rsp
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csprojAssemblyReference.cache
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.CoreCompileInputs.cache
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.CopyComplete
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.dll
+D:\Download\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.pdb
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\QLBanHangGiaDung.dll.config
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\QLBanHangGiaDung.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\QLBanHangGiaDung.pdb
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csc.exe
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csc.exe.config
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csc.rsp
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csi.exe
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csi.exe.config
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\csi.rsp
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.AppContext.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Console.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.Compression.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.IO.Pipes.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.AccessControl.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Claims.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.ValueTuple.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Xml.XPath.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\vbc.exe
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\vbc.exe.config
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\vbc.rsp
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.AssemblyReference.cache
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.CoreCompileInputs.cache
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.CopyComplete
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.dll
+D:\WEbNC\Kho BTL\Kho BTL\webbbbb\BTLwebformbanhang\QuanLyBanHangGiaDung\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.pdb
+C:\Users\bonga\Downloads\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.AssemblyReference.cache
+C:\Users\bonga\Downloads\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\bonga\Downloads\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.dll
+C:\Users\bonga\Downloads\QuanLyBanHangGiaDung-master\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.pdb
+C:\iih\năm 4\BTL_LTWNC\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.AssemblyReference.cache
+C:\iih\năm 4\BTL_LTWNC\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.csproj.CoreCompileInputs.cache
+C:\iih\năm 4\BTL_LTWNC\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.dll
+C:\iih\năm 4\BTL_LTWNC\QLBanHangGiaDung\obj\Debug\QLBanHangGiaDung.pdb
